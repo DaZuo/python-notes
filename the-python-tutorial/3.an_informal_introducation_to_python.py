@@ -52,7 +52,11 @@ print('Py'    'thon')
 
 # Fibonacci series:
 # the sum of two elements defines the next
-a, b = 0, 1
-while b < 10:
-    print(b)
-    a, b = b, a + b
+def fibonacci():
+    '''haha'''
+    aaa, bbb = 0, 1
+    while bbb < 10:
+        print(bbb)
+        aaa, bbb = bbb, aaa + bbb
+
+fibonacci()

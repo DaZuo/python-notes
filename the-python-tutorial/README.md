@@ -5,3 +5,4 @@
 - [1. Whetting Your Appetite](1.whetting_your_appetite.md)
 - [2. Using the Python Interpreter](2.using_the_python_interpreter.md)
 - [3. An Informal Introduction to Python](3.an_informal_introducation_to_python.md)
+- [4. More Control Flow Tools](4.more_control_flow_tools.md)
