@@ -1,4 +1,5 @@
 {
+     "editor.detectIndentation": false,
     "python.linting.pylintUseMinimalCheckers": false,
     "python.venvPath": ".env",
     "python.pythonPath": "${workspaceFolder}/.env/bin/python"
