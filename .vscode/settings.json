@@ -1,6 +1,7 @@
 {
-     "editor.detectIndentation": false,
+    "editor.detectIndentation": false,
     "python.linting.pylintUseMinimalCheckers": false,
     "python.venvPath": ".env",
-    "python.pythonPath": "${workspaceFolder}/.env/bin/python"
+    "python.pythonPath": "${workspaceFolder}/.env/bin/python",
+    "markdown.extension.toc.levels": "2..6"
 }

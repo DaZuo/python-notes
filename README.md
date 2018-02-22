@@ -1,6 +1,8 @@
-# Python Notes
-
 这个 repo 用来记录我学习 Python 的笔记，主要是一些阅读笔记，不是总结，但是有心得体会
+
+- [Installation](#installation)
+- [基础理论](#%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA)
+- [练手项目](#%E7%BB%83%E6%89%8B%E9%A1%B9%E7%9B%AE)
 
 ## Installation
 
@@ -34,7 +36,12 @@ Done!
 
 等等，编辑器使用的是 [VS Code](https://code.visualstudio.com/)
 
-## Step By Step
+## 基础理论
 
-1. 第一阶段的学习
-    - [the-python-tutorial](./the-python-tutorial/README.md)
+目前为止所有的理论学习来源都是[官方文档](https://www.python.org/doc/)
+
+- [the-python-tutorial](./the-python-tutorial/README.md)
+
+## 练手项目
+
+- [实验楼练手项目集合](./exercises-from-shiyanlou.com/README.md)
